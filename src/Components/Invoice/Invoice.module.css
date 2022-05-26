@@ -1,0 +1,25 @@
+.post {
+  display: inline-block;
+  width: 300px;
+  height: auto;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 2px #ccc;
+  background-color: #ffffff;
+  margin: 20px;
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 15px;
+  border-radius: 25px;
+}
+
+.post h2 {
+  color: black;
+}
+
+.post h3 {
+  color: black;
+}
+
+.post p {
+  color: #ccc;
+}

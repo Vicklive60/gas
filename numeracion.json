@@ -1,0 +1,87 @@
+{
+  "empleado": [
+    {
+      "id": 1,
+      "nombre": "Jesus David",
+      "apellido": "Venegas",
+      "documento": "123",
+      "email": "123",
+      "contrasena": "123",
+      "contrasenaconf": "123"
+    },
+    {
+      "id": 2,
+      "nombre": "1",
+      "apellido": "1",
+      "email": "1",
+      "documento": "1",
+      "estacion": "",
+      "contrasena": "1",
+      "contrasenaconf": "1"
+    },
+    {
+      "id": 3,
+      "nombre": "2",
+      "apellido": "2",
+      "email": "2",
+      "documento": "2",
+      "estacion": "",
+      "contrasena": "2",
+      "contrasenaconf": "2"
+    },
+    {
+      "id": 4,
+      "nombre": "3",
+      "apellido": "3",
+      "email": "3",
+      "documento": "3",
+      "estacion": "",
+      "contrasena": "3",
+      "contrasenaconf": "3"
+    },
+    {
+      "id": 5,
+      "nombre": "4",
+      "apellido": "4",
+      "email": "4",
+      "documento": "4",
+      "estacion": "",
+      "contrasena": "4",
+      "contrasenaconf": "4"
+    }
+  ],
+  "invoice": [
+    {
+      "id": "0",
+      "id_empleado": "0",
+      "id_pump": "0",
+      "fecha": "01/02/2022",
+      "numeracion": 900,
+      "entregado": 7800
+    },
+    {
+      "id": "1",
+      "id_empleado": "0",
+      "id_pump": "0",
+      "fecha": "01/02/2022",
+      "numeracion": 900,
+      "entregado": 7800
+    },
+    {
+      "id": "3",
+      "id_empleado": "0",
+      "id_pump": "0",
+      "fecha": "01/02/2022",
+      "numeracion": 900,
+      "entregado": 7800
+    },
+    {
+      "id": "4",
+      "id_empleado": "0",
+      "id_pump": "0",
+      "fecha": "01/02/2022",
+      "numeracion": 900,
+      "entregado": 7800
+    }
+  ]
+}
